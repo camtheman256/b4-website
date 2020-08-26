@@ -1,6 +1,6 @@
 <div class="row mb-3">
     <div class="col-md-4 mb-2 mb-md-0">
-        <img class="img-fluid" src="/img/people/{{ include.person.photo_filename }}">
+        <img class="img-fluid" src="{{ '/img/people/' | append: include.person.photo_filename | relative_url }}">
     </div>
     <div class="col-md-8">
         <h3><b>{{ include.person.name }}</b></h3>
