@@ -1,0 +1,11 @@
+{% assign counter = false %}
+{% for person in site.data.people %}
+    {% if person.year == include.year %}
+        {% assign counter = true %}
+        {% include person.html person=person %}
+    {% endif %}
+{% endfor %}
+{% if counter != true %}
+    <div class="alert alert-danger text-center">Sorry, no students yet.</div>
+{% endif %}
+<p><a href="#top">&uparrow; To top</a></p>
