@@ -2,4 +2,4 @@ sass:
     sass_dir: _scss
     style: compressed
 
-baseurl: /b4-website
+baseurl:
