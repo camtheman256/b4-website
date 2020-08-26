@@ -1,0 +1,31 @@
+---
+layout: default
+title: People
+description: The People of Burton Four
+---
+<h1>The People of Burton 4</h1>
+<hr />
+
+Meet some peeps!
+<ul style="list-style: none;">
+    <li><a href="#2024s">2024s</a></li>
+    <li><a href="#2023s">2023s</a></li>
+    <li><a href="#2022s">2022s</a></li>
+    <li><a href="#2021s">2021s</a></li>
+    <li><a href="#alums">Alums</a></li>
+</ul>
+
+<h2 id="2024s">Meet the 2024s!</h2>
+<div class="alert alert-danger text-center"><i>2024s loading...</i></div>
+
+<h2 id="2023s">Meet the 2023s!</h2>
+{% include person-iterator.html year="2023" %}
+
+<h2 id="2022s">Meet the 2022s!</h2>
+{% include person-iterator.html year="2022" %}
+
+<h2 id="2021s">Meet the 2021s!</h2>
+{% include person-iterator.html year="2021" %}
+
+<h2 id="alums">Meet the Alumni!</h2>
+{% include person-iterator.html year="alum" %}
