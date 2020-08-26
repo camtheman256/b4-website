@@ -6,9 +6,9 @@ description: a website for the burton 4 players in the year of our lord 2020
 ## there is now website stuff
 ---
 
-<img src="{% link img/floor.jpg %}" alt="the floor picture, it is now here" class="img-fluid" />
+<img src="{{ site.baseurl }}{% link img/floor.jpg %}" alt="the floor picture, it is now here" class="img-fluid" />
 
-click here [_**to meet the peeps**_]({% link people.html %})
+click here [_**to meet the peeps**_]({{ site.baseurl }}{% link people.html %})
 
 People who do stuff here:
 
