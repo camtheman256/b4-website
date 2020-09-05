@@ -1,10 +1,17 @@
 <div class="row mb-3">
-    <div class="col-md-4 mb-2 mb-md-0">
-        <img class="img-fluid" src="{{ '/img/people/' | append: include.person.photo_filename | relative_url }}">
+    <div class="col-md-4 mb-2 mb-md-0 text-center">
+        {% if include.person.photo_filename %}
+        <img class="img-fluid" style="max-height: 300px" src="{{ '/img/people/' | append: include.person.photo_filename | relative_url }}">
+        {% else %}
+        <p>no photo :(</p>
+        {% endif %}
     </div>
     <div class="col-md-8">
         <h3><b>{{ include.person.name }}</b></h3>
         <ul>
+            {% if include.person.course %}
+            <li><b>Course:</b> {{ include.person.course }} </li>
+            {% endif %}
             <li><b>Clubs:</b> {{ include.person.clubs }} </li>
             <li><b>Fun Facts:</b> {{ include.person.fun_fact }} </li>
         </ul>
