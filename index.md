@@ -6,6 +6,10 @@ description: a website for the burton 4 players in the year of our lord 2020
 ## there is now website stuff
 ---
 
+<div class="alert alert-primary">
+<b>attention newbies:</b> welcome to bc and thanks for checking out our website! everything on here is from 2020, but we'll be sure to update it once you join the floor. :)
+</div>
+
 <img src="{{ site.baseurl }}{% link img/floor.jpg %}" alt="the floor picture, it is now here" class="img-fluid" />
 
 People who do stuff here:
