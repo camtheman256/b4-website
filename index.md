@@ -13,15 +13,15 @@ this is us before covid :P
 People who do stuff here:
 
 - **Floor Chairs**: Sophia Chen & Shreya Gupta
-- **Treasurer**: Ellie Vasserman
-- **Decoration Chairs**: Ellie Vasserman, et al.
+- **Treasurer**: Ellie Vaserman
+- **Decoration Chairs**: Ellie Vaserman, et al.
 - **Birthday Chairs**: Grace Sun, et al.
 - **Flounge Chair**: Sophia LG
 - **Retreat Chairs**: Sarah Coston, Julia Xia
 - **Art Chair**: Gracie Goll
 - **Swag Chairs**: Nate Woodward, Izzy Zhu, Vedang Lad
 - **IM Sports Chair**: Kira Buttrey
-- **Social Chairs**: Sophia LG, Ellie Vasserman
+- **Social Chairs**: Sophia LG, Ellie Vaserman
 - **Condom Chair**: Nate Woodward
 - **Study Break Chair**: Grace Sun
 - **Social Media Chairs**: Julie Steele, Celina Zhao
