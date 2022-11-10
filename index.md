@@ -6,8 +6,6 @@ description: a website for the burton 4 players in the year of our lord 2020
 ## there is now website stuff
 ---
 
-this is us before covid :P
-
 <img src="{{ site.baseurl }}{% link img/floor.jpg %}" alt="the floor picture, it is now here" class="img-fluid" />
 
 People who do stuff here:
