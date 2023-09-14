@@ -13,16 +13,10 @@ People who do stuff here:
 
 - **Floor Chairs**: Nate Woodward & Ellie Vaserman
 - **Treasurer**: Ellie Vaserman
-- **Decoration Chairs**: Ellie Vaserman, et al.
-- **Birthday Chairs**: Grace Sun, et al.
-- **Flounge Chair**: Sophia LG
-- **Retreat Chairs**: Sarah Coston, Julia Xia
-- **Art Chair**: Gracie Goll
-- **Swag Chairs**: Nate Woodward, Izzy Zhu, Vedang Lad
-- **IM Sports Chair**: Kira Buttrey
-- **Social Chairs**: Sophia LG, Ellie Vaserman
-- **Condom Chair**: Nate Woodward
-- **Study Break Chair**: Grace Sun
-- **Social Media Chairs**: Julie Steele, Celina Zhao
+- **Birthday Chairs**: Carlos Villa (head), Kai Juarez, Jennifer Zhang, Cathy Hu
+- **Retreat Chairs**: Olivia Avelino, Brooke Rethman
+- **Merch Chairs**: Kai Juarez, Ana Vadillo, Izzy Zhu
+- **Condom Chairs**: Cameron Kleiman and Nate Woodward (data)
+- **Social Media Chairs**: Gracie Goll
 - **Chair Chair**: ???
 - **🌎 Webmaster Chair**: Cameron Kleiman <a class="font-italic badge badge-danger font-weight-bold" href="#" onclick="return false;">made this</a>
